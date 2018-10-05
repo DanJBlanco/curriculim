@@ -1,1 +1,2 @@
-# curriculim
+# CV
+Curriculum Vitae Daniel Blanco
